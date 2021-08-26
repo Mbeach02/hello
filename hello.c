@@ -11,6 +11,8 @@
 
    printf("Maclain Beach!\n");
    printf("Computer Engineering\n");
+   printf("Brett Thieman\n");
+   printf("Computer Science\n");
 
    return 0;
  }
